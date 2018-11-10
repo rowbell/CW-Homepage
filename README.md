@@ -1,15 +1,46 @@
 # CW-Homepage
-<body>
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Using Internal CSS</title>
+    <style type="text/css">
+      body{
+        font-family: arial;
+        background-color: rgb(185,179,175);}
+    </style>
+ </head>
+ <body>
+  
+
   <h1>ROWAN BELL</h1>
-<p2> 
-  <h2> WELCOME TO MY WEBSITE</h2>
-      <h3> This website showcases all of my past work and experiences</h3>
-           <h4>My name is Rowan Bell. I am 18 and I am studying Digital Media at Robert Gordons University. My course involves learning a variety of useful skills, one of which is creating a website like this one.</h4>
+  <p>Rowan bell is great we love her so much woooo hoooo. help, too much work.</p>
+ </body>
+</html>
+
+
+  <a href="page1.html">Page 2</a>
+ 
+  
+  <p2> 
+  <header>
+    <h1>INTRODUCTION</h1>
+  <nav>
+    <ul>
+   <h3> This website showcases all of my past work and experiences</h3>
+           <h4>My name is Rowan Bell. I am 18 and I am studying Digital Media at Robert Gordons University. My course involves learning a variety of useful skills, one of which is creating a website like this one.</h4> 
+    
+  </p2>
+           
+ 
+    
 
 <p3>
   <h1> EXPERIENCES </h1>
   <h2>PREVIOUS JOBS</h2>
-      <h3>I have worked in several companies as well as being selff employed. My previous jobs have all demanded strong website building skills. These jobs have made me undersatnd and know what is expeccetd from a website. My past jobs also demanded other skills apart from website degin. As an example, my latest job required me to be able to undersatnd other forms of media and understand the laws surrounding them. 
+  
+  <h3>I have worked in several companies as well as being selff employed. My previous jobs have all demanded strong website building skills. These jobs have made me undersatnd and know what is expeccetd from a website. My past jobs also demanded other skills apart from website degin. As an example, my latest job required me to be able to undersatnd other forms of media and understand the laws surrounding them. </h3>
+        
+   </p3>
         <h2>SKILLS</2>
             <h6>Strong website building skills</h6>
             <h6>excellent teamworker</h6>
